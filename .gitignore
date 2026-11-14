@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.venv/
+research/data/
+research/results/gp/
+.DS_Store
